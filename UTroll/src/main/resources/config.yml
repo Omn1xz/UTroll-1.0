@@ -1,0 +1,11 @@
+troll:
+  launch-blocks: 25
+  rotate-timer: 15
+  badeff-timer: 15
+  rtp:
+    blocks: 10
+    timer: 15
+  down-blocks: 3
+  spam-timer: 15
+  hologram: "§e↓ Опущенный позорник ↓"
+  allahakbar: 1
